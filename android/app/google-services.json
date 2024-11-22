@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008588971024",
+    "project_id": "chatnow-201e6",
+    "storage_bucket": "chatnow-201e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008588971024:android:9274c3080d570c9dcd7e95",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBZNHy20YPZ4K30yZgKMb1zFyCyi-FCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
